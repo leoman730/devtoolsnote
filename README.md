@@ -9,13 +9,13 @@ Plugins:
 * [atom-alignment](https://atom.io/packages/atom-alignment) - A simple key-binding for aligning multi-line, multi-cursor and multiple selections.
 
 ### SublimeText
-
+One of my favorite editors. Light weight and fast. Tons of great plugins.
 
 ### Vim
 My default editor for commandline. See [notetoself-vim-cheatsheet](http://leoman730.github.io/notetoself/2016/02/24/vim-cheatsheet).
 
 ### Textwrangler
-
+I like to use this to work with search/replace using regex. Also it is a good tool for compare files. ``twdiff dir1 dir2``
 
 ## Build
 ### Tmux and Tmuxinator
