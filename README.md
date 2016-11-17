@@ -20,3 +20,8 @@ I like to use this to work with search/replace using regex. Also it is a good to
 ## Build
 ### Tmux and Tmuxinator
 Terminal multiplexer and tmux sessions managments. Help to start up a development project quickly. See [notetoself - tmux and tmuxinator](http://leoman730.github.io/notetoself/2016/11/17/tmux-and-tmuxinator).
+
+### [Gulp](http://gulpjs.com/)
+
+### [Kss-node](https://github.com/kss-node/kss-node)
+Living styleguide generator. 
