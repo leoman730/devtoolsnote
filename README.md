@@ -12,7 +12,7 @@ Plugins:
 
 
 ### Vim
-
+My default editor for commandline. See [notetoself-vim-cheatsheet](http://leoman730.github.io/notetoself/2016/02/24/vim-cheatsheet).
 
 ### Textwrangler
 
