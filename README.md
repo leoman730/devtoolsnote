@@ -7,6 +7,7 @@ Plugins:
 * [EditorConfig](http://editorconfig.org/) - Ensure consistency in coding style while wirting code.
 * [CSSComb](https://atom.io/packages/csscomb) - Sort, format css properties.
 * [atom-alignment](https://atom.io/packages/atom-alignment) - A simple key-binding for aligning multi-line, multi-cursor and multiple selections.
+* [atom-jslint](https://atom.io/packages/jslint) - A must use tool. Report js error. Use .jslintrc for customization. More help: [jslint.com](http://www.jslint.com/help.html).
 
 ### SublimeText
 One of my favorite editors. Light weight and fast. Tons of great plugins.
